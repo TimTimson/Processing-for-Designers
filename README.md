@@ -7,7 +7,7 @@ Interactive recipe, that shows you the ingredients of a pumpkin creme soup for o
 ![pumpkin_creme_soup](https://user-images.githubusercontent.com/46715698/51339795-a73cc780-1a8d-11e9-911e-2bff27819eee.jpg)
 
 ## pong vs computer with sound control
-Play pong against the computer by controlling your rectangle with the volume of your voice. 
+Play pong against the computer by controlling your rectangle with the volume of your voice. <br>
 The player that reaches five points first wins.
 
 ![pong_vs_computer_sound](https://user-images.githubusercontent.com/46715698/51339810-b02d9900-1a8d-11e9-93c8-ecb6725c4f24.jpg)
