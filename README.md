@@ -13,8 +13,8 @@ The player that reaches five points first wins.
 ![pong_vs_computer_sound](https://user-images.githubusercontent.com/46715698/51339810-b02d9900-1a8d-11e9-93c8-ecb6725c4f24.jpg)
 
 ## immune system
-This program simulates the fight of a body against a virus. 
-You can control two phagocytes to kill the virus. 
+This program simulates the fight of a body against a virus. <br>
+You can control two phagocytes to kill the virus. <br>
 Antibodies help you slow the virus down.
 
 ![immune_system](https://user-images.githubusercontent.com/46715698/51339815-b3288980-1a8d-11e9-9897-11b0026e0bf8.jpg)
