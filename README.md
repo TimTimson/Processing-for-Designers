@@ -2,7 +2,7 @@
 **Documentation of my projects made in the university course "Processing for Designers"**
 
 ## pumpkin creme soup
-Interactive recipe, that shows you the ingredients of a pumpkin creme soup for one to four person(s).
+Interactive recipe, that shows you the ingredients of a pumpkin creme soup for one to four persons.
 
 ![pumpkin_creme_soup](https://user-images.githubusercontent.com/46715698/51339795-a73cc780-1a8d-11e9-911e-2bff27819eee.jpg)
 
