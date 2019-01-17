@@ -1,5 +1,4 @@
-# Processing for Designers 
-**Documentation of my projects made in the university course "Processing for Designers"**
+# Processing for Designers Documentation 18/19
 
 ## pumpkin creme soup
 Interactive recipe, that shows you the ingredients of a pumpkin creme soup for one to four persons.
