@@ -22,4 +22,5 @@ Antibodies help you slow the virus down.
 ## hip hop election
 Interactive data visualization based on rap lines about Hillary Clinton and Donald Trump. 
 
-![hip_hop_election](https://user-images.githubusercontent.com/46715698/51339819-b58ae380-1a8d-11e9-825e-6b68136f3fb8.jpg)
+
+![hip_hop_election](https://github.com/TimTimson/Processing-for-Designers/blob/master/gif/hip_hop_election.gif)
