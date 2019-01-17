@@ -2,7 +2,7 @@
 Documentation of my projects made in the course
 
 ## pumpkin creme soup
-https://github.com/TimTimson/Processing-for-Designers/compare/master...pictures#diff-438f42829d4cffb203ceda9a17630311
+![pumpkin_creme_soup](https://user-images.githubusercontent.com/46715698/51339795-a73cc780-1a8d-11e9-911e-2bff27819eee.jpg)
 
 ## pong vs computer
 
